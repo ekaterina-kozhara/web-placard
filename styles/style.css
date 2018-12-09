@@ -11,7 +11,7 @@ body {
 
 main {
   display: flex;
-  background-image: url("images/1.jpg");
+  background-image: url("../images/1.jpg");
   background-size: cover;
   background-position: center;
   flex-direction: row;
